@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-Hello!👋
-  - my name is Ibrahim. I am from Egypt. 🇪🇬 <br>
+  - my name is Ibrahim. I am from Egypt. 🇪🇬 <br> <br>
   - I am **Frontend web developer.** 💻
