@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
-  - my name is Ibrahim. 😊
-  - **Frontend web developer.** 💻
+- I'm Ibrahim AbdElwahab.
+- Front-End Web Developer.
+
+# Languages I talk with:
+- HTML.
+- CSS.
+- JavaScript.
+
+I'm not focusing on strengthening my fundamentals of the web technologies. 💪
