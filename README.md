@@ -8,4 +8,4 @@
 - CSS.
 - JavaScript.
 
-I'm not focusing on strengthening my fundamentals of the web technologies. 💪
+I'm now focusing on strengthening my fundamentals of the web technologies. 💪
