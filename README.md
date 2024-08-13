@@ -8,4 +8,6 @@
 - CSS.
 - JavaScript.
 
-I'm now focusing on strengthening my fundamentals of the web technologies. 💪
+# Frameworks:
+- Bootstrap.
+- React.js.
