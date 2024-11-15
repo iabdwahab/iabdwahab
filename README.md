@@ -1,9 +1,10 @@
 # Hi there 👋
 
 - I'm Ibrahim AbdElwahab.
-- Front-End Web Developer.
+- Front-End Developer.
 
 # Languages I talk with:
 HTML - CSS - JavaScript.
+
 # Frameworks:
-Bootstrap - React.js.
+React.js - Next.js - Bootsrap - TailwindCSS.
