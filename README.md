@@ -3,8 +3,6 @@
 
 I build websites that help businesses grow online. My focus is simple: fast, accessible, performant frontends that showcase your services clearly and make a strong first impression.
 
-Whether you're a company or an individual, I turn your goals into a site that reflects your abilities and gets results.
-
 
 
 
