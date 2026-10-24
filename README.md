@@ -1,5 +1,8 @@
 # Hey there!
-**I'm Ibrahim AbdElwahab** - I'm a frontend developer with experience in developing websites and web applications. Staying up-to-date is a priority for me to deliver high-quality products.
+**I'm Ibrahim AbdElwahab** - I'm a frontend developer with experience in developing websites and web applications. I build websites that help businesses grow online. My focus is simple: fast, accessible, performant frontends that showcase your services clearly and make a strong first impression. Whether you're a company or an individual, I turn your goals into a site that reflects your abilities and gets results.
+
+
+
 
 <div align="center">
   <img align="top" alt="HTML" width="40px" src="https://skillicons.dev/icons?i=html" />
